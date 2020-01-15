@@ -6,7 +6,7 @@ sudo apt-get install libatlas-base-dev libjasper-dev libqtgui4 python3-pyqt5 lib
 pip3 install opencv-python==3.4.6.27
 ```
 
-RP commands with compile opencv ( make )
+RP commands with compile opencv ( make ) https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
 ```shell
 sudo apt-get purge wolfram-engine libreoffice* && sudo apt-get clean && sudo apt-get autoremove
 
